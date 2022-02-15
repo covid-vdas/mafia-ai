@@ -1,1 +1,1 @@
-# mafia-ai
+# Mafia AI (YOLOv5)
